@@ -1,2 +1,1 @@
-# AcademicAssistant
-Classifier Telegram Bot 
+# https://t.me/TheClassifierBot
